@@ -1,0 +1,10 @@
+{
+  "name": "shortly-deploy",
+  "version": "1.0.0",
+  "description": "Learn all about (the challenges of) deployment",
+  "author": "Jarob Gilliam Github: /jarobgilliam",
+  "license": "All rights reserved.",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
