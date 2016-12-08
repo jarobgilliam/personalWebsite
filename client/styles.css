@@ -1,0 +1,33 @@
+body {
+  background-image: url('imgs/45degreee_fabric.png');
+}
+
+.navBar {
+  background-color: #555;
+  border-radius: 5px;
+  padding-left: 20px;
+  width: 80%;
+  margin: auto;
+}
+
+.navBar li {
+  display: inline-block;
+  padding: 15px 17px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #eee;
+}
+
+.navBar li:hover {
+  background-color: #444;
+  cursor: pointer;  
+}
+
+.header {
+  width: 80%;
+  height: 45%;
+  margin: auto;
+  margin-top: 40px;
+  background-color: #d7d8d9;
+  border-radius: 5px;
+}
